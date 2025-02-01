@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarah Ammaireh</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate front-end developer</h3>
 <h5> I'm a computer science student at Al-Balqa Applied University </h5> 
 
 - 🔭 I’m currently working on **Bait Fina**, **Methaaq project**
-- ⚡️ I’m currently a student at IEEE Organization at the Computer society 
+- ⚡️ I’m currently a student at IEEE Organization at the Computer Society 
 - 📫 How to reach me **Sarah_@ieee.org**
 
 <h3 align="left">Connect with me:
