@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Bait Fina**, **Methaaq project**
 - ⚡️ I’m currently a student at IEEE Organization at the Computer Society 
-- 📫 How to reach me **Sarah_@ieee.org**
+- 📫 How to reach me **sarahammaireh@gmail.com**
 
 <h3 align="left">Connect with me:
 </h3>
